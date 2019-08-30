@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1I4AF8LL-8q5tS83OlCNQRS2b-FdorKYM/view?usp=sharing"/>
+<img src="http://nandakyawwin.ml/wp-content/uploads/2019/08/Screenshot-11.png"/>
 <p align="center">
 	<a href="" title="">
 	</a>
