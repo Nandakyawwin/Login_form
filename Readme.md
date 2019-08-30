@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://scrollrevealjs.org" title="Visit ScrollReveal home page">
+	<a href="https://sites.google.com/s/1zUVZCB54G6bIIXxCOpP_jvt3aeFX66hb/p/1ty_jAOCFS3rsMJWFd-yCkOJRUl9vnWwN/edit" title="Visit ScrollReveal home page">
 		<img src="https://scrollrevealjs.org/img/logomark.svg" alt="ScrollReveal" width="120">
 	</a>
 </p>
